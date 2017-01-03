@@ -41,4 +41,4 @@ Written by Ishan Kamat.
             (format t "~a " arg))
       (format t "~%"))))
 
-(sb-ext:save-lisp-and-die "eyes" :executable t :toplevel #'main :save-runtime-options t)
+(sb-ext:save-lisp-and-die "yes" :executable t :toplevel #'main :save-runtime-options t)
